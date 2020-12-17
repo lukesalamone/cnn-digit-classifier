@@ -4,9 +4,11 @@
 
 This repo contains a convolutional neural network which classifies the MNIST handwritten digits dataset.
 
+![MNIST examples](numbers.png)
+
 My network contains a fairly simple architecture:
 
-convolutional layer -> max pool -> convolutional layer -> max pool -> fully-connected layer
+`convolutional layer -> max pool -> convolutional layer -> max pool -> fully-connected layer`
 
 ![Loss graph](loss_graph.png)
 
